@@ -1,0 +1,9 @@
+
+e
+java:S6208"CMerge the previous cases into this one using comma-separated label.(ƒιΐϊÿÿÿÿ8Ί¶Σε1
+`
+java:S6208'"CMerge the previous cases into this one using comma-separated label.(ΰ»Ρ8Ί¶Σε1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(²Εδ–όÿÿÿÿ8Ί¶Σε1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ω«Ιϊÿÿÿÿ8 Ί¶Σε1
+L	java:S106	"+Replace this use of System.out by a logger.(—αρϋÿÿÿÿ8®Ί¶Σε1
+]	java:S125"<This block of commented-out lines of code should be removed.(‚Ψποώÿÿÿÿ8―Ί¶Σε1

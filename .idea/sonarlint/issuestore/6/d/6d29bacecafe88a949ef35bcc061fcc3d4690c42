@@ -1,0 +1,9 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(õÍÜ¸8İ¿·Õå1J$855f8ae2-6676-404e-930a-b4c231a520cf
+Š
+java:S2184"BCast one of the operands of this addition operation to a "double".(…ˆ±¥ıÿÿÿÿ8Ş¿·Õå1J$a9567d4d-f673-414a-bdd5-2adabfcc128e
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Á³»ªÿÿÿÿÿ8ß¿·Õå1J$d1dec3cc-7b74-464b-aed9-58ab78879be1
+m	java:S106
+"+Replace this use of System.out by a logger.(¦ÿÏ8ê¿·Õå1J$79d2438d-4797-4d75-9c79-3fa8d918e7d4
+q
+java:S2140")Use "java.util.Random.nextInt()" instead.(ï›´Ÿşÿÿÿÿ8í¿·Õå1J$4e419c36-9c61-4b33-a618-3aee7b13ab9a

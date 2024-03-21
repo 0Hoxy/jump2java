@@ -1,0 +1,21 @@
+
+Ÿ
+java:S1192"WDefine a constant instead of duplicating this literal "íƒì‹œë¥¼ íƒ€ê³ ê°€ë¼" 5 times.(¬À™ùùÿÿÿÿ8Õò†Ëå1J$e294ba5c-83c2-4244-8178-8e04be720898
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ß‰‡Ìÿÿÿÿÿ8×ò†Ëå1J$583e1b5a-cd32-4368-a2b9-a6b171f2c75c
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²¼È’8Øò†Ëå1J$aca8493f-0b93-4b3b-a8c0-ebd08fe3870f
+T
+java:S2589"7Remove this expression which always evaluates to "true"(¯‡‡„8’ó‡Ëå1
+`
+java:S2583 "CChange this condition so that it does not always evaluate to "true"(ïåö¬8“ó‡Ëå1
+r	java:S106"+Replace this use of System.out by a logger.(¬À™ùùÿÿÿÿ8ìò†Ëå1J$5eccb3f1-86d4-4faa-a026-ee93b88c2259
+m	java:S106"+Replace this use of System.out by a logger.(èæËí8ìò†Ëå1J$0bbda41b-d60f-48f4-844f-d40bc4533526
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(¾áêÖÿÿÿÿÿ8íò†Ëå1J$0d4ae917-5574-49ec-8291-42d041ea14ac
+r	java:S106"+Replace this use of System.out by a logger.(¬À™ùùÿÿÿÿ8îò†Ëå1J$f3725905-9b7a-4ca1-b826-1681c4edebde
+m	java:S106"+Replace this use of System.out by a logger.(èæËí8îò†Ëå1J$adada666-e254-4a48-be28-0b1353919090
+r	java:S106"+Replace this use of System.out by a logger.(¬À™ùùÿÿÿÿ8ñò†Ëå1J$0c20350c-3ed9-4a3a-ada4-b9dbe6759e88
+m	java:S106"+Replace this use of System.out by a logger.(èæËí8òò†Ëå1J$94ec54a1-3a7b-4963-be8d-1d30cb3917f6
+r	java:S106!"+Replace this use of System.out by a logger.(¬À™ùùÿÿÿÿ8òò†Ëå1J$c933c1fd-c52a-4ebb-951a-3d70d12a9116
+r	java:S106#"+Replace this use of System.out by a logger.(¬À™ùùÿÿÿÿ8óò†Ëå1J$d0ded772-1096-4636-a06f-d2a8adfee00e
+m	java:S106%"+Replace this use of System.out by a logger.(èæËí8ôò†Ëå1J$e644c5d7-c44b-4e9a-b720-93b968c11579
+Q
+java:S1128"4Remove this unused import 'org.w3c.dom.ls.LSOutput'.(Ò½¾Š8ó‡Ëå1

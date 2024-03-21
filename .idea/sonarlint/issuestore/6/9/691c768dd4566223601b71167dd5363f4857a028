@@ -1,0 +1,12 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(å“Ð¹8ùÏíÔå1J$03a770bb-6174-4903-be5f-7d60acf6e270
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Á³»ªÿÿÿÿÿ8úÏíÔå1J$81cd9dcc-819e-4ebc-a127-5d122de0792c
+~
+java:S1854";Remove this useless assignment to local variable "onegram".(—²°«8ÐíÔå1J$f2bb2c7b-f988-4358-ab7c-f02385ffb611
+}
+java:S1854":Remove this useless assignment to local variable "person".(óúð8ÐíÔå1J$6c1324d0-0946-4f6d-bb31-8dba01ee1369
+n
+java:S1481"+Remove this unused "person" local variable.(óúð8‚ÐíÔå1J$13a3f784-e55c-4e36-95bf-837c399e7668
+o
+java:S1481",Remove this unused "onegram" local variable.(—²°«8ƒÐíÔå1J$90fe8e80-0f06-4a36-8f5b-c32943f56eef
+m	java:S106	"+Replace this use of System.out by a logger.(©ñ‡‚8…ÐíÔå1J$5e4fea96-4b65-4dec-b954-58b82c5f6c14
