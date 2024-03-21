@@ -1,13 +1,5 @@
 package ch05;
 
-class Animal {
-  String name;
-
-  public void setName(String name) {
-    this.name = name;
-  }
-}
-
 
 public class instanceVariable {
   public static void main(String[] args) {
