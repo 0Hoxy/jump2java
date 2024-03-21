@@ -79,3 +79,27 @@ L
 src/Exercise/Method/ex8.java,c\c\cc4efc06187f98d6ef6146711b8916c9c3c6b5fa
 L
 src/Exercise/Method/ex9.java,d\f\df60c63df70c82c84a1257592b310ea945a62e7d
+M
+src/Exercise/Method/ex12.java,d\1\d161ab7cbbccc3914c058b4abf34724ee0149eca
+M
+src/Exercise/Method/ex11.java,4\2\42e772c48e57779dc1decf9f450b584f74a6e69e
+M
+src/Exercise/Method/ex10.java,f\1\f145e39d7ecc6bbdf3ad485410a3ba0e34e02443
+M
+src/Exercise/Method/ex13.java,a\e\ae07283aeaab3c80cd90ba2dd5e20e1134343b72
+O
+src/Exercise/Method/ex13_2.java,7\0\70c385c1c2ad39c79a43cbb910370342da787b0c
+Å
+Q.idea/sonarlint/securityhotspotstore/7/0/70c385c1c2ad39c79a43cbb910370342da787b0c,b\1\b190591c1c29866ba138e733dcca3ecaf151ebba
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+Å
+Q.idea/sonarlint/securityhotspotstore/d/1/d161ab7cbbccc3914c058b4abf34724ee0149eca,6\e\6e528a52e49832bf852da5fb24ee891b48c65d40
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+Å
+Q.idea/sonarlint/securityhotspotstore/4/2/42e772c48e57779dc1decf9f450b584f74a6e69e,c\5\c5f98a33dc399dd8ca51a46943dd7edd473ab840
+Å
+Q.idea/sonarlint/securityhotspotstore/f/1/f145e39d7ecc6bbdf3ad485410a3ba0e34e02443,c\f\cf09ec14bc72331d6d42f51e93bf3d097dcdfb3f
+Å
+Q.idea/sonarlint/securityhotspotstore/a/e/ae07283aeaab3c80cd90ba2dd5e20e1134343b72,1\5\159df5c1c8f7b1b3b2caec2ff1941774c6562a73

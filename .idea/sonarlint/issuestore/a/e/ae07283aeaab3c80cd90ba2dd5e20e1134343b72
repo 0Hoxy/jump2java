@@ -1,0 +1,9 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(àí–üÿÿÿÿ8Ğıäóå1J$d8c5b1a8-f140-4207-8ecb-0369454887da
+Ï
+java:S1598"‹This file "ex13.java" should be located in "Exercise\method" directory, not in "C:\Users\admin\IdeaProjects\jump2java\src\Exercise\Method".(Ù¥íÀ8Ñıäóå1J$0acaa208-521e-4a5d-930d-b79626bac94f
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ù¥íÀ8Òıäóå1J$4af98cb6-e78c-43c6-b95d-a49658de9af2
+m	java:S106"+Replace this use of System.out by a logger.(ÕÓ‹é8ßıäóå1J$7a518be0-497e-4be4-aa36-590a351b62f9
+m	java:S106"+Replace this use of System.out by a logger.(î¤Ã8àıäóå1J$8014bec9-0ae5-467c-93f7-e1190ec1755f
+r	java:S106"+Replace this use of System.out by a logger.(§Ã×†øÿÿÿÿ8áıäóå1J$725385d1-341b-41e1-b94d-f84bfa3b8f54
+r	java:S106"+Replace this use of System.out by a logger.(½—„úÿÿÿÿ8âıäóå1J$5093a735-9df3-4165-91e0-c4bf32e0d399

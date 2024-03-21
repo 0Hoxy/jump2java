@@ -1,0 +1,10 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ë¹§œùÿÿÿÿJ$0e0ce3f8-23a9-4c02-81b8-0cb099b03fde
+È
+java:S1598"‹This file "ex12.java" should be located in "Exercise\method" directory, not in "C:\Users\admin\IdeaProjects\jump2java\src\Exercise\Method".(Ù¥íÀJ$5b8622f8-1852-4bc5-b8fb-e85bcc0f24c9
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ù¥íÀJ$f63599e3-3eb6-40b9-9e73-bf8b493e8dfd
+f	java:S106"+Replace this use of System.out by a logger.(ñ–¹ËJ$b36aba73-4f68-4963-8d32-96cf45e06c30
+k	java:S106"+Replace this use of System.out by a logger.(áŞíàùÿÿÿÿJ$06ea9701-f0cc-4203-b6a4-9cc573595c84
+k	java:S106"+Replace this use of System.out by a logger.(ñ˜âşÿÿÿÿJ$15ec6a05-aa14-415a-a74c-4885ba80e4fd
+g
+java:S1481"+Remove this unused "result" local variable.(ìş“J$9045b8bf-5d10-4550-955f-f81d6624e4e6

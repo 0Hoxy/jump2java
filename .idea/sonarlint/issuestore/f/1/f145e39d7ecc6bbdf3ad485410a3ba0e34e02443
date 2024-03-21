@@ -1,0 +1,6 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ï¢‹«üÿÿÿÿJ$06c12df9-daff-4627-a919-3c7694e61207
+È
+java:S1598"‹This file "ex10.java" should be located in "Exercise\method" directory, not in "C:\Users\admin\IdeaProjects\jump2java\src\Exercise\Method".(Ù¥íÀJ$6cf4ac98-1f84-4c76-aba6-7b368beef3dc
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ù¥íÀJ$462104b8-509f-4e65-85c8-a43b2d491e59
+f	java:S106;"+Replace this use of System.out by a logger.(ÉÁ÷ÎJ$b211f8c0-55ca-4550-88a9-6b416ac2a62c
