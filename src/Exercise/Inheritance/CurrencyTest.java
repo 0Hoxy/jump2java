@@ -27,15 +27,14 @@ class Currency {
     this.money = amount;
 
   }
+  public String toString() {
+    return String.format("%s: %.2f %s",getClass().getSimpleName(), money, name);
+  }
 }
 
 class KRW extends Currency {
   public KRW(double amount, String notation) {
     super(amount, notation);
-  }
-
-  public String toString() {
-    return String.format("KRW: %.2f %s", money, name);
   }
 }
 
@@ -43,25 +42,16 @@ class USD extends Currency {
   public USD(double amount, String notation) {
     super(amount, notation);
   }
-  public String toString() {
-    return String.format("USD: %.2f %s", money, name);
-  }
 }
 
 class EUR extends Currency {
   public EUR(double amount, String notation) {
     super(amount, notation);
   }
-  public String toString() {
-    return String.format("EUR: %.2f %s", money, name);
-  }
 }
 
 class JPY extends Currency {
   public JPY(double amount, String notation) {
     super(amount, notation);
-  }
-  public String toString() {
-    return String.format("JPY: %.2f %s", money, name);
   }
 }
