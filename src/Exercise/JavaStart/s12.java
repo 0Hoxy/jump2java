@@ -1,4 +1,4 @@
-package Exercise.javaStart;
+package Exercise.JavaStart;
 
 public class s12 {
   public static void main(String[] args) {

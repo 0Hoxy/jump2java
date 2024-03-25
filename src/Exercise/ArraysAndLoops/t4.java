@@ -1,4 +1,4 @@
-package Exercise.arraysAndLoops;
+package Exercise.ArraysAndLoops;
 
 public class t4 {
   public static void main(String[] args) {

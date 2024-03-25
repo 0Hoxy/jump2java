@@ -1,4 +1,4 @@
-package Exercise.arraysAndLoops;
+package Exercise.ArraysAndLoops;
 
 public class t8_re {
 

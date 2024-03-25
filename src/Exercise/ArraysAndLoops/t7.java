@@ -1,6 +1,6 @@
-package Exercise.arraysAndLoops;
+package Exercise.ArraysAndLoops;
 
-public class t7_re {
+public class t7 {
   public static void main(String[] args) {
     //Math.pow() 메소드는 밑이 되는 a와 지수 b를 입력받아 a의 b승 값을 실수로 반환합니다.
     //아래는 2의 3승을 결과를 정수로 얻는 예 입니다.
@@ -11,27 +11,29 @@ public class t7_re {
     //위 과정을 준비된 코드를 통해 배열에 기록하고 출력하려 한다. 출력 예와 같은 결과를 얻도록, writeLog() 메소들를 완성하시오.
 
     //배열생성
-    int[] bacteriaCountLog = new int[10];
+    int [] bacteriaCountLog = new int[10];
     //개체 수 기록
     writeLog(bacteriaCountLog);
     //결과 출력
     printLog(bacteriaCountLog);
   }
-
+  // 박테리아의 개체 수를 기록
   private static void writeLog(int[] logs) {
-    for (int i = 0; i < logs.length; i++) {
-      logs[i] = (int) Math.pow(2, i);
+    //int result = (int) Math.pow(2, 10);
+    for(int i = 0; i < logs.length ;i++){
+      logs[i] = (int)Math.pow(2, i);
     }
   }
-
-  private static void printLog(int[] symbol) {
+  //배열을 입력받아, 해당 요소를 모두 출력
+  private static void printLog(int[] arr){
     System.out.printf("[");
-    for (int i = 0; i < symbol.length; i++) {
-      System.out.printf("%d",symbol[i]);
-      if(i < symbol.length-1){
+    for(int i =0; i < arr.length; i++){
+      System.out.printf("%d",arr[i]);
+      if (i != arr.length-1){
         System.out.printf(", ");
       }
     }
     System.out.printf("]");
   }
 }
+
