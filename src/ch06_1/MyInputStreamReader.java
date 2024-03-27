@@ -14,3 +14,4 @@ public class MyInputStreamReader {
     System.out.println(a);
   }
 }
+// InputStreamReader란 사용자가 입력한 문잣값을 그대로 출력할 때 사용한다

@@ -16,3 +16,5 @@ public class InputStreamByte {
     System.out.println(a[2]);
   }
 }
+// 같은 InputStream이지만 사용자가 인덱스를 3으로 입력했을때 3byte를 전부 읽는다. 입력한 수 보다 많이 출력할 경우 에러가 난다.
+// 길이가 3byte인 배열을 만든 후 read 메소드의 입력값으로 전달한다.

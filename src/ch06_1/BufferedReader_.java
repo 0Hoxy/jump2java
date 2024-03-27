@@ -16,3 +16,10 @@ public class BufferedReader_ {
   }
 }
 
+//BufferedReader란 길이에 상관없이 사용자가 입력한 문잣값을 모두 읽어 들일 때 사용한다
+
+/*
+InputStream: byte를 읽는다.
+InputStreamReader: character(문자)를 읽는다.
+BufferedReader: String(문자열)을 읽는다.
+ */
