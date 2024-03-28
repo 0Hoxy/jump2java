@@ -3,7 +3,7 @@ package ch06_2;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class FileWriter_ {
+public class FileWriter_1 {
 
   public static void main(String[] args) throws IOException {
     FileWriter fw = new FileWriter("out2.txt");

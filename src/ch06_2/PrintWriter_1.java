@@ -1,10 +1,9 @@
 package ch06_2;
 
-import java.io.FileWriter;
 import java.io.PrintWriter;
 import java.io.IOException;
 
-public class PrintWriter_ {
+public class PrintWriter_1 {
 
   public static void main(String[] args) throws IOException {
     PrintWriter pw = new PrintWriter("out3.txt");
